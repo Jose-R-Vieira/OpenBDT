@@ -22,6 +22,8 @@
 		<module>openbdt.adapter.selenium</module>
 		<module>openbdt.plugin.maven</module>
 		<module>openbdt.report</module>
+		<module>openbdt.adapter.sikuli.api</module>
+		<module>openbdt.adapter.sikulix</module>
 	</modules>
 
 	<properties>
